@@ -17,7 +17,7 @@ run mvn clean test install
 
 After running above url after 2 3 test attemts youn able to enter the username password and login after that serach will activate
 
-#please faloow he steps for functainality # Gothrough the worddocument for clear understanding
+# please faloow he steps for functainality , Gothrough the worddocument for clear understanding
 
 # Flip cart Automation Using selenium maven
 Framework for flipkart assessment
