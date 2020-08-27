@@ -19,7 +19,7 @@ After running above url after 2 3 test attemts youn able to enter the username p
 
 #please faloow he steps for functainality 
 
-# SimpleFlipkartAppAutomation
+# Flip cart Automation Using selenium maven
 Framework for flipkart assessment
 ******************************************************************************************************************************************
 Important Points:
