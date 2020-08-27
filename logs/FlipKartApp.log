@@ -1,0 +1,1101 @@
+21:46:40.764 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:46:40.767 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:46:40.781 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:46:40.781 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:46:40.785 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:46:40.786 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:46:40.788 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:46:40.789 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:46:40.791 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:46:40.791 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:46:40.813 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+21:46:40.813 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+21:46:40.813 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:46:40.814 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:46:40.814 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:46:40.814 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:46:45.128 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:46:52.354 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:46:52.354 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Driver loaded ... Traversing to Login Page
+21:46:52.355 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:46:52.355 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:46:52.355 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:46:52.368 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+21:46:52.375 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+21:46:52.375 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Sending username and password to login page!
+21:46:52.375 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:46:52.461 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:46:52.461 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:46:55.620 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:46:55.735 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:46:55.793 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:46:58.834 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:46:58.835 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:46:58.835 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:46:58.835 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Successfully Logged in!
+21:46:58.836 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+21:46:58.837 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+21:46:58.837 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Closing browser
+21:47:01.155 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Browser closed
+21:47:01.367 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+21:47:01.367 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+21:47:01.368 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:47:01.368 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:47:01.368 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:47:01.368 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:47:05.253 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:47:09.518 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:47:09.518 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+21:47:09.518 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:47:09.518 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:47:09.518 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:47:09.519 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+21:47:09.519 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:47:09.602 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:47:09.603 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:47:09.813 [main] INFO  com.callhub.flipkart.pages.LoginPage - Continue button Found! Clicking Continue!
+21:47:09.941 [main] INFO  com.callhub.flipkart.pages.LoginPage - Clicking Login with Password
+21:47:10.108 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password typed
+21:47:10.157 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:47:13.218 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:47:13.218 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:47:13.218 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:47:13.219 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+21:47:13.219 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+21:47:13.219 [main] INFO  com.callhub.flipkart.tests.HomepageTest - verifying HomePageTitle
+21:47:13.219 [main] INFO  com.callhub.flipkart.pages.Homepage - Title found! Returning to HomePageTest
+21:47:13.226 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Found homePageTitle->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+21:47:13.229 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Title Verified!
+21:47:13.230 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTest test successfull! 
+21:47:13.231 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+21:47:15.547 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+21:47:15.548 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+21:47:15.548 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+21:47:15.548 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:47:15.548 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:47:15.549 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:47:15.549 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:47:19.477 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:47:28.349 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:47:28.349 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+21:47:28.349 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:47:28.349 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:47:28.349 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:47:28.349 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+21:47:28.349 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:47:28.441 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:47:28.442 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:47:31.669 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:47:31.830 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:47:31.902 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:47:38.590 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:47:38.590 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:47:38.590 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:47:38.590 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+21:47:38.592 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+21:47:38.592 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Verifying username
+21:47:38.625 [main] INFO  com.callhub.flipkart.pages.Homepage - UserName found->Anomitro
+21:47:38.625 [main] INFO  com.callhub.flipkart.pages.Homepage - Username expected->Anomitro
+21:47:38.625 [main] INFO  com.callhub.flipkart.pages.Homepage - Username matched!
+21:47:38.625 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Username Verified!
+21:47:38.626 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn test successfull! 
+21:47:38.626 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+21:47:40.939 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+21:47:40.940 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+21:47:40.940 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+21:47:40.940 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:47:40.940 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:47:40.940 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:47:40.940 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:47:44.322 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:47:49.163 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:47:49.163 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+21:47:49.163 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:47:49.164 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:47:49.164 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:47:49.165 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+21:47:49.165 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:47:49.247 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:47:49.247 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:47:49.506 [main] INFO  com.callhub.flipkart.pages.LoginPage - Continue button Found! Clicking Continue!
+21:47:49.624 [main] INFO  com.callhub.flipkart.pages.LoginPage - Clicking Login with Password
+21:47:49.784 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password typed
+21:47:49.859 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:47:52.900 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:47:52.900 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:47:52.900 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:47:52.901 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+21:47:52.903 [main] INFO  com.callhub.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+21:47:52.904 [main] INFO  com.callhub.flipkart.tests.HomepageTest - typing product name in search bar.....
+21:47:52.904 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+21:47:53.090 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+21:47:53.090 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+21:47:56.200 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:47:56.200 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:47:56.203 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Traversed to search Page!
+21:47:56.203 [main] INFO  com.callhub.flipkart.pages.Homepage - Title found! Returning to HomePageTest
+21:47:56.209 [main] INFO  com.callhub.flipkart.tests.HomepageTest - New Title of the page->Iphone7 - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+21:47:56.209 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Title Matched!
+21:47:56.209 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Searched the product!
+21:47:56.210 [main] INFO  com.callhub.flipkart.listeners.Listener - searchProductFromHomepage test successfull! 
+21:47:56.210 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+21:47:58.525 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+21:47:58.568 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Initializing Drivers
+21:47:58.569 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:47:58.569 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:47:58.569 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:47:58.569 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:48:01.890 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:48:08.989 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:48:08.989 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Driver loaded!
+21:48:08.989 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:48:08.990 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:48:08.990 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:48:08.990 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:48:09.063 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:48:09.064 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:48:12.282 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:48:12.390 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:48:12.443 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:48:15.481 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:48:15.481 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:48:15.482 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:48:15.482 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:48:18.512 [main] ERROR com.callhub.flipkart.tests.SearchPageTest - Login failed!
+21:48:18.512 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+21:48:18.590 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+21:48:18.590 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+21:48:21.689 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:48:21.689 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:48:21.690 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Traversed to search page
+21:48:21.693 [main] INFO  com.callhub.flipkart.listeners.Listener - countProductsOnPageinSearchPage Started! 
+21:48:21.693 [main] INFO  com.callhub.flipkart.pages.SearchPage - Scrolling down to the bottom of the page
+21:48:22.238 [main] INFO  com.callhub.flipkart.pages.SearchPage - Scrolling down to the top of the page
+21:48:22.265 [main] INFO  com.callhub.flipkart.pages.SearchPage - Returning list of products
+21:48:22.388 [main] INFO  com.callhub.flipkart.pages.SearchPage - Navigating to next page of products
+21:48:22.561 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Choosing 1st product of 2nd page
+21:48:22.561 [main] INFO  com.callhub.flipkart.pages.SearchPage - Selecting 1st product
+21:48:22.561 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - total selected items: 25
+21:48:22.561 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Verified product count
+21:48:22.562 [main] INFO  com.callhub.flipkart.listeners.Listener - countProductsOnPageinSearchPage test successfull! 
+21:48:22.562 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Closing browser..
+21:48:23.483 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Browser closed!
+21:48:23.484 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Initializing Drivers
+21:48:23.484 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:48:23.485 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:48:23.485 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:48:23.485 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:48:26.744 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:48:34.109 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:48:34.109 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Driver loaded!
+21:48:34.109 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:48:34.110 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:48:34.110 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:48:34.110 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:48:34.179 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:48:34.179 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:48:37.408 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:48:37.531 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:48:37.594 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:48:40.656 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:48:40.657 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:48:40.657 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:48:40.657 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:48:43.679 [main] ERROR com.callhub.flipkart.tests.SearchPageTest - Login failed!
+21:48:43.679 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+21:48:43.761 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+21:48:43.761 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+21:48:46.862 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:48:46.862 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:48:46.862 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Traversed to search page
+21:48:46.862 [main] INFO  com.callhub.flipkart.listeners.Listener - clickonProductinSearchPage Started! 
+21:48:46.862 [main] INFO  com.callhub.flipkart.pages.SearchPage - Selecting topmost product
+21:48:46.961 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switching to child window
+21:48:46.972 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switched to next tab.
+21:48:46.973 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:48:46.973 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:48:46.975 [main] INFO  com.callhub.flipkart.listeners.Listener - clickonProductinSearchPage test successfull! 
+21:48:46.975 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Closing browser..
+21:48:47.624 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Browser closed!
+21:48:47.708 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+21:48:47.708 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Initializing Drivers
+21:48:47.708 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:48:47.708 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:48:47.708 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:48:47.708 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:48:51.095 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:49:02.743 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:49:02.743 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Driver loaded Traversing to LoginPage!
+21:49:02.743 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:02.743 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:02.743 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:49:02.744 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:49:02.815 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:49:02.815 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:49:06.007 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:49:06.151 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:49:06.199 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:49:09.251 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:49:09.252 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:09.252 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:09.252 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:49:12.289 [main] ERROR com.callhub.flipkart.tests.ProductpageTest - Login failed!
+21:49:12.289 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+21:49:12.362 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+21:49:12.362 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+21:49:15.467 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:15.468 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:15.469 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Successfully Searched the product!
+21:49:15.469 [main] INFO  com.callhub.flipkart.pages.SearchPage - Selecting topmost product
+21:49:15.590 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switching to child window
+21:49:15.598 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switched to next tab.
+21:49:15.598 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:15.598 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:15.599 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Traversed to product page
+21:49:15.600 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyCartAdditionfromProductPage Started! 
+21:49:15.600 [main] INFO  com.callhub.flipkart.pages.Productpage - Adding product to cart!
+21:49:17.177 [main] INFO  com.callhub.flipkart.pages.Productpage - Waiting for adding to cart
+21:49:20.178 [main] INFO  com.callhub.flipkart.pages.Productpage - Traversing to cart page....
+21:49:20.401 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:20.402 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:20.403 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyCartAdditionfromProductPage test successfull! 
+21:49:20.403 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Closing browsers...
+21:49:21.067 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - both browsers closed!
+21:49:21.148 [main] INFO  com.callhub.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+21:49:21.148 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Initializing Drivers
+21:49:21.148 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:49:21.148 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:49:21.148 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:49:21.149 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:49:24.436 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:49:35.387 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:49:35.387 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Driver loaded!
+21:49:35.387 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:35.387 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:35.387 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:49:35.388 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:49:35.437 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:49:35.437 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:49:38.606 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:49:38.720 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:49:38.788 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:49:41.812 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:49:41.813 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:41.813 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:41.814 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:49:44.884 [main] ERROR com.callhub.flipkart.tests.CartPageTest - Login failed!
+21:49:44.884 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+21:49:44.964 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+21:49:44.965 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+21:49:48.076 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:48.076 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:48.077 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Successfully Searched the product!
+21:49:48.077 [main] INFO  com.callhub.flipkart.pages.SearchPage - Selecting topmost product
+21:49:48.171 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switching to child window
+21:49:48.180 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switched to next tab.
+21:49:48.181 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:48.181 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:48.181 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Traversed to product page
+21:49:48.181 [main] INFO  com.callhub.flipkart.pages.Productpage - Adding product to cart!
+21:49:49.624 [main] INFO  com.callhub.flipkart.pages.Productpage - Waiting for adding to cart
+21:49:52.625 [main] INFO  com.callhub.flipkart.pages.Productpage - Traversing to cart page....
+21:49:52.625 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:49:52.625 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:49:52.625 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Traversed to cart page
+21:49:52.626 [main] INFO  com.callhub.flipkart.listeners.Listener - ScreenshotCartPage Started! 
+21:49:52.633 [main] INFO  com.callhub.flipkart.pages.CartPage - Title of the page=Shopping Cart | Flipkart.com
+21:49:52.633 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Taking Screenshot!
+21:49:52.633 [main] INFO  com.callhub.flipkart.pages.CartPage - Traversing to testUtil class..
+21:49:53.214 [main] INFO  com.callhub.flipkart.util.TestUtil - Screenshot captured
+21:49:53.215 [main] INFO  com.callhub.flipkart.listeners.Listener - ScreenshotCartPage test successfull! 
+21:49:53.215 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Closing browser...
+21:49:53.867 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Browser closed!
+21:49:53.869 [main] INFO  com.callhub.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+21:49:53.869 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Initializing Drivers
+21:49:53.869 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:49:53.869 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:49:53.870 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:49:53.870 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:49:57.246 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:50:02.221 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:50:02.221 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Driver loaded!
+21:50:02.222 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:02.222 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:02.222 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:50:02.222 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:50:02.281 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:50:02.281 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:50:05.476 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:50:05.586 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:50:05.645 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:50:08.690 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:50:08.690 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:08.691 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:08.691 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:50:11.711 [main] ERROR com.callhub.flipkart.tests.CartPageTest - Login failed!
+21:50:11.711 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+21:50:11.787 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+21:50:11.787 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+21:50:14.921 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:14.921 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:14.923 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Successfully Searched the product!
+21:50:14.923 [main] INFO  com.callhub.flipkart.pages.SearchPage - Selecting topmost product
+21:50:15.052 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switching to child window
+21:50:15.060 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switched to next tab.
+21:50:15.060 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:15.061 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:15.061 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Traversed to product page
+21:50:15.061 [main] INFO  com.callhub.flipkart.pages.Productpage - Adding product to cart!
+21:50:16.514 [main] INFO  com.callhub.flipkart.pages.Productpage - Waiting for adding to cart
+21:50:19.514 [main] INFO  com.callhub.flipkart.pages.Productpage - Traversing to cart page....
+21:50:19.514 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:19.515 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:19.516 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Traversed to cart page
+21:50:19.518 [main] INFO  com.callhub.flipkart.listeners.Listener - removeFromCart Started! 
+21:50:19.532 [main] INFO  com.callhub.flipkart.pages.CartPage - Title of the page=Shopping Cart | Flipkart.com
+21:50:19.532 [main] INFO  com.callhub.flipkart.tests.CartPageTest - In cart Page:verified!
+21:50:19.553 [main] INFO  com.callhub.flipkart.pages.CartPage - Returning cartsize as 2
+21:50:19.564 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Cart size=2
+21:50:19.575 [main] INFO  com.callhub.flipkart.pages.CartPage - Returning cartsize as 2
+21:50:19.594 [main] INFO  com.callhub.flipkart.pages.CartPage - Returning cartsize as 2
+21:50:19.616 [main] INFO  com.callhub.flipkart.pages.CartPage - Returning cartsize as 2
+21:50:19.630 [main] INFO  com.callhub.flipkart.tests.CartPageTest - No.of products in page=2
+21:50:19.630 [main] INFO  com.callhub.flipkart.pages.CartPage - To remove 1st product. Removing.....
+21:50:19.687 [main] INFO  com.callhub.flipkart.pages.CartPage - Remove button clicked.
+21:50:19.687 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Removed 1st product!
+21:50:19.690 [main] INFO  com.callhub.flipkart.listeners.Listener - removeFromCart test successfull! 
+21:50:19.691 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Closing browser...
+21:50:20.355 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Browser closed!
+21:50:20.356 [main] INFO  com.callhub.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+21:50:20.356 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Initializing Drivers
+21:50:20.356 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+21:50:20.356 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+21:50:20.356 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+21:50:20.356 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+21:50:23.747 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+21:50:28.888 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+21:50:28.888 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Driver loaded!
+21:50:28.888 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:28.888 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:28.888 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+21:50:28.889 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:50:28.967 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+21:50:28.968 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+21:50:32.183 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+21:50:32.302 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+21:50:32.355 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+21:50:35.399 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+21:50:35.399 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:35.399 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:35.399 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+21:50:38.438 [main] ERROR com.callhub.flipkart.tests.CartPageTest - Login failed!
+21:50:38.438 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+21:50:38.508 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+21:50:38.508 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+21:50:41.628 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:41.629 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:41.629 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Successfully Searched the product!
+21:50:41.630 [main] INFO  com.callhub.flipkart.pages.SearchPage - Selecting topmost product
+21:50:41.754 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switching to child window
+21:50:41.762 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switched to next tab.
+21:50:41.762 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:41.763 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:41.763 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Traversed to product page
+21:50:41.763 [main] INFO  com.callhub.flipkart.pages.Productpage - Adding product to cart!
+21:50:43.257 [main] INFO  com.callhub.flipkart.pages.Productpage - Waiting for adding to cart
+21:50:46.257 [main] INFO  com.callhub.flipkart.pages.Productpage - Traversing to cart page....
+21:50:46.257 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+21:50:46.257 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+21:50:46.257 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Traversed to cart page
+21:50:46.258 [main] INFO  com.callhub.flipkart.listeners.Listener - logoutfromAppinCart Started! 
+21:50:46.258 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Searching logout button!
+21:50:46.399 [main] INFO  com.callhub.flipkart.pages.CartPage - logout clicked
+21:50:46.399 [main] INFO  com.callhub.flipkart.pages.CartPage - Verifying Login Button
+21:50:47.472 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Logout Verified!
+21:50:47.475 [main] INFO  com.callhub.flipkart.listeners.Listener - logoutfromAppinCart test successfull! 
+21:50:47.476 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Closing browser...
+21:50:48.131 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Browser closed!
+21:50:48.520 [main] INFO  com.callhub.flipkart.report.ExtentReporterNG - Creating Extent Report...
+21:50:48.811 [main] INFO  com.callhub.flipkart.report.ExtentReporterNG - Report created!
+12:03:35.174 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:03:35.191 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:03:35.264 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:03:35.265 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:03:35.267 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:03:35.267 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:03:35.271 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:03:35.272 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:03:35.275 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:03:35.276 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:03:35.303 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:03:35.303 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:03:35.303 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:03:35.304 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:03:35.304 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:03:35.304 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:04:03.158 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:04:03.158 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:03.161 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:04:03.161 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:03.306 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:04:03.306 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:04:03.306 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:04:03.306 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:04:03.306 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:04:03.306 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:04:13.037 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+12:04:13.037 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:13.041 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+12:04:13.041 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:13.043 [main] INFO  com.callhub.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+12:04:13.043 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:13.138 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Initializing Drivers
+12:04:13.139 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:04:13.139 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:04:13.139 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:04:13.139 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:04:33.609 [main] INFO  com.callhub.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+12:04:33.609 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:33.614 [main] INFO  com.callhub.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+12:04:33.615 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:33.638 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+12:04:33.638 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Initializing Drivers
+12:04:33.638 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:04:33.638 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:04:33.639 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:04:33.639 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:04:42.407 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+12:04:42.407 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:42.425 [main] INFO  com.callhub.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+12:04:42.425 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Initializing Drivers
+12:04:42.425 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:04:42.425 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:04:42.425 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:04:42.425 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:04:49.379 [main] INFO  com.callhub.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+12:04:49.379 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:49.382 [main] INFO  com.callhub.flipkart.listeners.Listener - removeFromCarttest skipped! 
+12:04:49.383 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:49.384 [main] INFO  com.callhub.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+12:04:49.384 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:04:51.854 [main] INFO  com.callhub.flipkart.report.ExtentReporterNG - Creating Extent Report...
+12:04:52.505 [main] INFO  com.callhub.flipkart.report.ExtentReporterNG - Report created!
+12:09:02.659 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:09:02.664 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:09:02.751 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:09:02.751 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:09:02.754 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:09:02.754 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:09:02.756 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:09:02.757 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:09:02.759 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:09:02.759 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:09:02.785 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:09:02.785 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:09:02.786 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:09:02.786 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:09:02.786 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:09:02.786 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:09:25.689 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:09:25.689 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:25.696 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:09:25.696 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:25.933 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:09:25.934 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:09:25.934 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:09:25.934 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:09:25.934 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:09:25.934 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:09:32.131 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTesttest skipped! 
+12:09:32.131 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:32.135 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+12:09:32.135 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:32.136 [main] INFO  com.callhub.flipkart.listeners.Listener - searchProductFromHomepagetest skipped! 
+12:09:32.136 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:32.162 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Initializing Drivers
+12:09:32.162 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:09:32.162 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:09:32.162 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:09:32.162 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:09:37.512 [main] INFO  com.callhub.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+12:09:37.512 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:37.516 [main] INFO  com.callhub.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+12:09:37.516 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:37.537 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+12:09:37.537 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Initializing Drivers
+12:09:37.537 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:09:37.537 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:09:37.537 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:09:37.537 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:09:44.093 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+12:09:44.093 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:44.115 [main] INFO  com.callhub.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+12:09:44.115 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Initializing Drivers
+12:09:44.115 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:09:44.115 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:09:44.115 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:09:44.115 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:09:51.538 [main] INFO  com.callhub.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+12:09:51.538 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:51.542 [main] INFO  com.callhub.flipkart.listeners.Listener - removeFromCarttest skipped! 
+12:09:51.542 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:09:51.543 [main] INFO  com.callhub.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+12:09:51.543 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:11:12.313 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:11:12.317 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:11:12.340 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:11:12.340 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:11:12.343 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:11:12.343 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:11:12.345 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:11:12.346 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:11:12.348 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:11:12.348 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:11:12.376 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:11:12.377 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:11:12.377 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:11:12.378 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:11:12.378 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:11:12.378 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:11:32.492 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:11:43.470 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:11:43.470 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Driver loaded ... Traversing to Login Page
+12:11:43.472 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:11:43.472 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:11:43.472 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:11:43.717 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:11:43.722 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:11:43.723 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Sending username and password to login page!
+12:11:43.723 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:12:04.165 [main] ERROR com.callhub.flipkart.tests.LoginPageTest - Login failed!
+12:12:04.215 [main] INFO  com.callhub.flipkart.listeners.Retry - Retry no: 1
+12:12:04.216 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:12:04.216 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:12:04.259 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:12:04.260 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:12:04.268 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Closing browser
+12:12:09.371 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Browser closed
+12:12:09.371 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:12:09.371 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:12:09.371 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:12:09.371 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:12:09.371 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:12:09.371 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:12:18.244 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:15:00.146 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:15:00.212 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:15:00.327 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:15:00.328 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:15:00.330 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:15:00.331 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:15:00.333 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:15:00.333 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:15:00.335 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:15:00.335 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:15:00.361 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:15:00.361 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:15:00.361 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:15:00.362 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:15:00.362 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:15:00.362 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:15:35.031 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:15:48.681 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:15:48.682 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Driver loaded ... Traversing to Login Page
+12:15:48.683 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:15:48.683 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:15:48.683 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:15:48.700 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:15:48.704 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:15:48.706 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Sending username and password to login page!
+12:15:48.706 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:15:49.259 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:15:49.259 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:15:52.765 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:15:52.988 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:15:53.047 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:15:53.294 [main] ERROR com.callhub.flipkart.pages.LoginPage - Your username or password is incorrect
+12:15:53.294 [main] ERROR com.callhub.flipkart.tests.LoginPageTest - Login failed!
+12:15:53.326 [main] INFO  com.callhub.flipkart.listeners.Retry - Retry no: 1
+12:15:53.327 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:15:53.327 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:15:53.333 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:15:53.333 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:15:53.334 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Closing browser
+12:16:07.148 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Browser closed
+12:16:07.148 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:16:07.148 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:16:07.148 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:16:07.148 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:16:07.148 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:16:07.149 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:16:15.469 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:16:22.476 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:16:22.476 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Driver loaded ... Traversing to Login Page
+12:16:22.476 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:16:22.476 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:16:22.476 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:16:22.478 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:16:22.481 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:16:22.481 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Sending username and password to login page!
+12:16:22.481 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:16:22.560 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:16:22.560 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:16:25.658 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:16:29.062 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:16:29.138 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:16:29.190 [main] ERROR com.callhub.flipkart.pages.LoginPage - Your username or password is incorrect
+12:16:29.190 [main] ERROR com.callhub.flipkart.tests.LoginPageTest - Login failed!
+12:16:29.191 [main] INFO  com.callhub.flipkart.listeners.Retry - Retry no: 2
+12:16:29.191 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:16:29.191 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:16:29.195 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogintest skipped! 
+12:16:29.195 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:16:29.196 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Closing browser
+12:16:37.370 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Browser closed
+12:16:37.370 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:16:37.370 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:16:37.370 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:16:37.370 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:16:37.370 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:16:37.370 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:18:54.216 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:18:54.238 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:18:54.370 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:18:54.371 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:18:54.378 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:18:54.379 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:18:54.382 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:18:54.383 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:18:54.386 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:18:54.387 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:18:54.416 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:18:54.416 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:18:54.416 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:18:54.416 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:18:54.417 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:18:54.417 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:19:23.204 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:19:28.656 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:19:28.656 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Driver loaded ... Traversing to Login Page
+12:19:28.658 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:19:28.658 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:19:28.659 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:19:28.888 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:19:28.896 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:19:28.897 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Sending username and password to login page!
+12:19:28.897 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:19:29.155 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:19:29.155 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:19:32.838 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:19:33.075 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:19:33.145 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:19:36.171 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:19:36.362 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:19:36.363 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:19:36.364 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Successfully Logged in!
+12:19:36.367 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+12:19:36.372 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+12:19:36.373 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Closing browser
+12:19:44.863 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Browser closed
+12:19:46.422 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:19:46.423 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:19:46.423 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:19:46.423 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:19:46.423 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:19:46.423 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:20:03.664 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:20:14.066 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:20:14.066 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:20:14.066 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:20:14.067 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:20:14.067 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:20:14.067 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:20:14.068 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:20:14.162 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:20:14.163 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:20:17.307 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:20:17.451 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:20:17.523 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:20:20.562 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:20:20.562 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:20:20.563 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:20:20.563 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:20:20.564 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+12:20:20.564 [main] INFO  com.callhub.flipkart.tests.HomepageTest - verifying HomePageTitle
+12:20:20.564 [main] INFO  com.callhub.flipkart.pages.Homepage - Title found! Returning to HomePageTest
+12:20:20.571 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Found homePageTitle->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+12:20:20.668 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Title Verified!
+12:20:20.670 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTest test successfull! 
+12:20:20.675 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+12:20:29.955 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+12:20:29.955 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:20:29.956 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:20:29.956 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:20:29.956 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:20:29.956 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:20:29.956 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:20:38.717 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:20:44.562 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:20:44.562 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:20:44.562 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:20:44.563 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:20:44.563 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:20:44.563 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:20:44.563 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:20:44.650 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:20:44.650 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:20:47.806 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:20:47.935 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:20:48.000 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:20:51.039 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:20:51.039 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:20:51.040 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:20:51.040 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:20:51.041 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+12:20:51.041 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Verifying username
+12:20:54.078 [main] INFO  com.callhub.flipkart.listeners.Retry - Retry no: 1
+12:20:54.080 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+12:20:54.080 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:20:54.081 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+12:20:56.741 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+12:20:56.741 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:20:56.741 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:20:56.741 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:20:56.741 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:20:56.741 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:20:56.741 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:21:07.877 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:21:13.811 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:21:13.812 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:21:13.812 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:21:13.813 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:21:13.813 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:21:13.814 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:21:13.814 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:21:13.898 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:21:13.898 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:21:17.073 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:21:17.200 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:21:17.270 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:21:20.369 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:21:20.369 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:21:20.369 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:21:20.369 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:21:20.370 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+12:21:20.370 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Verifying username
+12:21:23.430 [main] INFO  com.callhub.flipkart.listeners.Retry - Retry no: 2
+12:21:23.431 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+12:21:23.431 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:21:23.431 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+12:21:32.615 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+12:21:32.615 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:21:32.616 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:21:32.616 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:21:32.616 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:21:32.616 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:21:32.616 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:21:50.679 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:21:59.737 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:21:59.738 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:21:59.738 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:21:59.739 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:21:59.739 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:21:59.741 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:21:59.741 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:21:59.835 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:21:59.835 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:22:02.981 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:22:03.114 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:22:03.184 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:22:06.268 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:22:06.268 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:22:06.268 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:22:06.269 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:22:06.270 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+12:22:06.271 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Verifying username
+12:22:09.316 [main] INFO  com.callhub.flipkart.listeners.Retry - 2 times retry done!
+12:22:09.857 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn test failed! 
+12:22:09.863 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+12:22:16.641 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+12:22:16.642 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:22:16.642 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:22:16.642 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:22:16.642 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:22:16.642 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:22:16.642 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:22:27.350 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:22:35.523 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:22:35.523 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:22:35.523 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:22:35.524 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:22:35.524 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:22:35.524 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:22:35.524 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:22:35.593 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:22:35.593 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:22:38.753 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:22:38.885 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:22:38.960 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:22:42.040 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:22:42.041 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:22:42.041 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:22:42.041 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:22:42.042 [main] INFO  com.callhub.flipkart.listeners.Listener - searchProductFromHomepage Started! 
+12:22:42.042 [main] INFO  com.callhub.flipkart.tests.HomepageTest - typing product name in search bar.....
+12:22:42.042 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+12:22:42.151 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+12:22:42.151 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+12:22:45.535 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:22:45.538 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:22:45.563 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Traversed to search Page!
+12:22:45.564 [main] INFO  com.callhub.flipkart.pages.Homepage - Title found! Returning to HomePageTest
+12:22:45.577 [main] INFO  com.callhub.flipkart.tests.HomepageTest - New Title of the page->Iphone7 - Buy Products Online at Best Price in India - All Categories | Flipkart.com
+12:22:45.577 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Title Matched!
+12:22:45.577 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Searched the product!
+12:22:45.577 [main] INFO  com.callhub.flipkart.listeners.Listener - searchProductFromHomepage test successfull! 
+12:22:45.580 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+12:22:48.384 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+12:22:48.550 [main] INFO  com.callhub.flipkart.tests.SearchPageTest - Initializing Drivers
+12:22:48.551 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:22:48.551 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:22:48.551 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:22:48.551 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:22:57.298 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:23:27.324 [main] INFO  com.callhub.flipkart.listeners.Listener - countProductsOnPageinSearchPagetest skipped! 
+12:23:27.324 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:23:27.325 [main] INFO  com.callhub.flipkart.listeners.Listener - clickonProductinSearchPagetest skipped! 
+12:23:27.325 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:23:30.758 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - ======Starting ProductPage Test========
+12:23:30.759 [main] INFO  com.callhub.flipkart.tests.ProductpageTest - Initializing Drivers
+12:23:30.759 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:23:30.759 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:23:30.759 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:23:30.759 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:24:01.072 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:24:31.092 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyCartAdditionfromProductPagetest skipped! 
+12:24:31.092 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:24:31.126 [main] INFO  com.callhub.flipkart.tests.CartPageTest - ======Starting CartPage Test========
+12:24:31.126 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Initializing Drivers
+12:24:31.126 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:24:31.126 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:24:31.126 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:24:31.127 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:25:16.033 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:25:39.732 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:25:39.733 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Driver loaded!
+12:25:39.733 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:25:39.733 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:25:39.733 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:25:39.733 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:25:42.779 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:25:42.779 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:25:46.373 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:25:46.559 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:25:46.636 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:25:53.156 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:25:53.156 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:25:53.157 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:25:53.157 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Successfully Logged in! Loading to homepage.
+12:25:53.158 [main] INFO  com.callhub.flipkart.pages.Homepage - Product to search->iphone7. Typing iphone7 in search box.
+12:25:53.268 [main] INFO  com.callhub.flipkart.pages.Homepage - ImplicitWaiting
+12:25:53.269 [main] INFO  com.callhub.flipkart.pages.Homepage - Pressing Enter Key
+12:25:57.030 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:25:57.031 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:25:57.031 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Successfully Searched the product!
+12:25:57.031 [main] INFO  com.callhub.flipkart.pages.SearchPage - Selecting topmost product
+12:25:59.222 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switching to child window
+12:26:00.316 [main] INFO  com.callhub.flipkart.pages.SearchPage - Switched to next tab.
+12:26:01.125 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:26:01.127 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:26:01.128 [main] INFO  com.callhub.flipkart.tests.CartPageTest - Traversed to product page
+12:26:01.128 [main] INFO  com.callhub.flipkart.pages.Productpage - Adding product to cart!
+12:26:19.295 [main] INFO  com.callhub.flipkart.listeners.Listener - ScreenshotCartPagetest skipped! 
+12:26:19.295 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:26:19.296 [main] INFO  com.callhub.flipkart.listeners.Listener - removeFromCarttest skipped! 
+12:26:19.296 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:26:19.297 [main] INFO  com.callhub.flipkart.listeners.Listener - logoutfromAppinCarttest skipped! 
+12:26:19.297 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:26:49.208 [main] INFO  com.callhub.flipkart.report.ExtentReporterNG - Creating Extent Report...
+12:27:00.865 [main] INFO  com.callhub.flipkart.report.ExtentReporterNG - Report created!
+12:29:08.355 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:29:08.360 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:29:08.545 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:29:08.546 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:29:08.553 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:29:08.554 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:29:08.558 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:29:08.558 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:29:08.563 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:29:08.563 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:29:08.592 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:29:08.592 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:29:08.592 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:29:08.593 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:29:08.593 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:29:08.593 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:29:45.679 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:29:53.005 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:29:53.005 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Driver loaded ... Traversing to Login Page
+12:29:53.007 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:29:53.007 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:29:53.007 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:29:53.020 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:29:53.025 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:29:53.026 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Sending username and password to login page!
+12:29:53.026 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:29:53.304 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:29:53.305 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:29:56.579 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:29:56.719 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:29:56.792 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:29:59.858 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:29:59.859 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:29:59.860 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:29:59.860 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Successfully Logged in!
+12:29:59.861 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+12:29:59.864 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+12:29:59.864 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Closing browser
+12:30:22.486 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Browser closed
+12:30:22.878 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:30:22.878 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:30:22.878 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:30:22.878 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:30:22.878 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:30:22.878 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:30:45.315 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:30:54.757 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:30:54.758 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:30:54.758 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:30:54.758 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:30:54.759 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:30:54.760 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:30:54.760 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:52:32.891 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:52:32.970 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:52:33.232 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:52:33.232 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:52:33.235 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:52:33.235 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:52:33.237 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:52:33.237 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:52:33.240 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:52:33.240 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:52:33.291 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - =======Starting Login Page Test========
+12:52:33.291 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Initializing Drivers
+12:52:33.291 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:52:33.292 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:52:33.292 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:52:33.292 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:53:28.858 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:53:36.807 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:53:36.807 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Driver loaded ... Traversing to Login Page
+12:53:36.849 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:53:36.850 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:53:36.850 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:53:36.976 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:53:36.980 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin Started! 
+12:53:36.981 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Sending username and password to login page!
+12:53:36.981 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:53:37.413 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:53:37.413 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:53:40.950 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:53:41.235 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:53:41.307 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:53:44.347 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:53:44.369 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:53:44.369 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:53:44.370 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Successfully Logged in!
+12:53:44.371 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+12:53:44.375 [main] INFO  com.callhub.flipkart.listeners.Listener - LoginPageVerifyLogin test successfull! 
+12:53:44.376 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Closing browser
+12:53:54.571 [main] INFO  com.callhub.flipkart.tests.LoginPageTest - Browser closed
+12:53:58.127 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:53:58.127 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:53:58.127 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:53:58.127 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:53:58.127 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:53:58.127 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:54:14.436 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:54:20.761 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:54:20.861 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:54:20.861 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:54:20.861 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:54:20.862 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:54:20.862 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:54:20.862 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:54:20.953 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:54:20.953 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:54:24.085 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:54:24.201 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:54:24.279 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:54:27.328 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:54:27.328 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:54:27.328 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:54:27.329 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:54:27.330 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTest Started! 
+12:54:27.333 [main] INFO  com.callhub.flipkart.tests.HomepageTest - verifying HomePageTitle
+12:54:27.333 [main] INFO  com.callhub.flipkart.pages.Homepage - Title found! Returning to HomePageTest
+12:54:27.341 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Found homePageTitle->Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+12:54:27.343 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Title Verified!
+12:54:27.343 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomePageTitileTest test successfull! 
+12:54:27.344 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+12:54:31.901 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+12:54:31.902 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:54:31.902 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:54:31.902 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:54:31.902 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:54:31.902 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:54:31.902 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:54:39.749 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:54:46.559 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:54:46.559 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:54:46.559 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:54:46.560 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:54:46.560 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:54:46.560 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:54:46.560 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:54:46.639 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:54:46.639 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:54:49.741 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:54:49.863 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:54:49.927 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:54:52.989 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:54:52.989 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:54:52.989 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:54:52.989 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:54:52.990 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+12:54:52.990 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Verifying username
+12:54:56.054 [main] INFO  com.callhub.flipkart.listeners.Retry - Retry no: 1
+12:54:56.054 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+12:54:56.054 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:54:56.055 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
+12:55:02.051 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Browser closed!
+12:55:02.051 [main] INFO  com.callhub.flipkart.tests.HomepageTest - ======Starting HomePage Test!=========
+12:55:02.052 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Initializing Drivers
+12:55:02.052 [main] INFO  com.callhub.flipkart.base.Driver - Getting browser from property file
+12:55:02.052 [main] INFO  com.callhub.flipkart.base.OsPath - Browser to initialize=chrome
+12:55:02.052 [main] INFO  com.callhub.flipkart.base.OsPath - Operating system found : WINDOWS
+12:55:02.052 [main] INFO  com.callhub.flipkart.base.Driver - Loading ChromeDriver
+12:55:11.707 [main] INFO  com.callhub.flipkart.base.Driver - Triggering url
+12:55:16.454 [main] INFO  com.callhub.flipkart.base.Driver - Triggered https://www.flipkart.com/
+12:55:16.454 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Driver loaded! Traversing to LoginPage!
+12:55:16.455 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:55:16.455 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:55:16.455 [main] INFO  com.callhub.flipkart.pages.LoginPage - initializing driver
+12:55:16.456 [main] INFO  com.callhub.flipkart.tests.HomepageTest - login page initialized
+12:55:16.456 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicking on email
+12:55:16.560 [main] INFO  com.callhub.flipkart.pages.LoginPage - clicked
+12:55:16.560 [main] INFO  com.callhub.flipkart.pages.LoginPage - Typing username
+12:55:19.672 [main] INFO  com.callhub.flipkart.pages.LoginPage - Exception thrown: Continue button not present. Proceeding with normal login. 
+12:55:19.880 [main] INFO  com.callhub.flipkart.pages.LoginPage - Password entered.
+12:55:19.949 [main] INFO  com.callhub.flipkart.pages.LoginPage - Login button clicked.
+12:55:22.966 [main] INFO  com.callhub.flipkart.pages.LoginPage - Username and Password verified!..Loading to HomePage.
+12:55:22.966 [main] INFO  com.callhub.flipkart.base.Driver - Reading property file.........
+12:55:22.966 [main] INFO  com.callhub.flipkart.base.Driver - Property file loaded successfully!
+12:55:22.967 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Successfully Logged in! Loading to homepage.
+12:55:22.967 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIn Started! 
+12:55:22.967 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Verifying username
+12:55:26.029 [main] INFO  com.callhub.flipkart.listeners.Retry - Retry no: 2
+12:55:26.030 [main] INFO  com.callhub.flipkart.listeners.Listener - verifyHomepageCorrectSignIntest skipped! 
+12:55:26.030 [main] INFO  com.callhub.flipkart.listeners.Listener - Retrying...........
+12:55:26.031 [main] INFO  com.callhub.flipkart.tests.HomepageTest - Closing browser...
