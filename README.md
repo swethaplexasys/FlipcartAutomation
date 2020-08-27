@@ -5,7 +5,7 @@ install maven in local and set environment varible
 for installation steps refer below link
 https://mkyong.com/maven/how-to-install-maven-in-windows/
 clone the link 
-git clone and clone URl
+#git clone https://github.com/swethaplexasys/FlipcartAutomation.git
 
 After cloning place folder in c or d driver
 download chrome driver from browser place in c drive or drive
